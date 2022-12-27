@@ -14,7 +14,7 @@ https://youtu.be/XLvvBAX35g8
 Clone the project
 
 ```bash
-  git clone https://github.com/vishal8803/file_organiser.git
+  git clone https://github.com/vishal8803/XYplorer.git
 ```
 
 Go to the project directory
